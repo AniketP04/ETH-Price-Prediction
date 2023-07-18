@@ -1,0 +1,15 @@
+{
+    "fft_window_size": 14,
+    "sequence_length": 14,
+    "prediction_window_size": 7,
+    "lstm1_units": 256,
+    "lstm2_units": 256,
+    "dense_units": 512,
+    "lstm1_regularizer": "l2",
+    "lstm2_regularizer": "l2",
+    "dense_regularizer": "l2",
+    "learning_rate": 0.0001,
+    "batch_size": 256,
+    "epochs": 1000,
+    "train_split": 0.9
+}
