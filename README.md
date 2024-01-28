@@ -9,3 +9,11 @@ capitalization and price.
 90% of the data will be used for the training set, and 10% will be used for the validation set. The
 most recent data will be used in the validation set, as predicting prices in the present is the goal. This
 dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/aniketkolte04/eth-blockchain-data).
+
+## Model
+
+![Image](https://github.com/AniketP04/ETH-Price-Prediction/blob/main/results/model.png)
+
+## Loss
+
+![Image](https://github.com/AniketP04/ETH-Price-Prediction/blob/main/results/loss.png)
